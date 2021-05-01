@@ -1,9 +1,0 @@
-C:\Users\User\Source\Repos\equipo6_PLAGA\PLAGA\bin\Debug\PLAGA.exe.config
-C:\Users\User\Source\Repos\equipo6_PLAGA\PLAGA\bin\Debug\PLAGA.exe
-C:\Users\User\Source\Repos\equipo6_PLAGA\PLAGA\bin\Debug\PLAGA.pdb
-C:\Users\User\Source\Repos\equipo6_PLAGA\PLAGA\obj\Debug\PLAGA.csprojAssemblyReference.cache
-C:\Users\User\Source\Repos\equipo6_PLAGA\PLAGA\obj\Debug\PLAGA.Properties.Resources.resources
-C:\Users\User\Source\Repos\equipo6_PLAGA\PLAGA\obj\Debug\PLAGA.csproj.GenerateResource.cache
-C:\Users\User\Source\Repos\equipo6_PLAGA\PLAGA\obj\Debug\PLAGA.csproj.CoreCompileInputs.cache
-C:\Users\User\Source\Repos\equipo6_PLAGA\PLAGA\obj\Debug\PLAGA.exe
-C:\Users\User\Source\Repos\equipo6_PLAGA\PLAGA\obj\Debug\PLAGA.pdb

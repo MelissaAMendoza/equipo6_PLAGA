@@ -1,0 +1,10 @@
+C:\Users\User\Source\Repos\equipo6_PLAGA\PlagaGame\bin\Debug\PlagaGame.exe.config
+C:\Users\User\Source\Repos\equipo6_PLAGA\PlagaGame\bin\Debug\PlagaGame.exe
+C:\Users\User\Source\Repos\equipo6_PLAGA\PlagaGame\bin\Debug\PlagaGame.pdb
+C:\Users\User\Source\Repos\equipo6_PLAGA\PlagaGame\obj\Debug\PlagaGame.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\equipo6_PLAGA\PlagaGame\obj\Debug\PlagaGame.Form1.resources
+C:\Users\User\Source\Repos\equipo6_PLAGA\PlagaGame\obj\Debug\PlagaGame.Properties.Resources.resources
+C:\Users\User\Source\Repos\equipo6_PLAGA\PlagaGame\obj\Debug\PlagaGame.csproj.GenerateResource.cache
+C:\Users\User\Source\Repos\equipo6_PLAGA\PlagaGame\obj\Debug\PlagaGame.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\equipo6_PLAGA\PlagaGame\obj\Debug\PlagaGame.exe
+C:\Users\User\Source\Repos\equipo6_PLAGA\PlagaGame\obj\Debug\PlagaGame.pdb
